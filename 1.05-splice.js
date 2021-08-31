@@ -5,4 +5,4 @@
 let array = ['today', 'was', 'not', 'so', 'great'];
 array.splice(2,2)
 
-//This will remove 'not' 'so'
+//This will remove 'not' 'so'  
